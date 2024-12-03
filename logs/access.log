@@ -42,3 +42,5 @@
 172.18.0.1 - - [03/Dec/2024:12:27:03 +0000] "GET /logo192.png HTTP/1.1" 200 5347 "http://052024-jaune-4.wns.wilders.dev/logo192.png" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 172.18.0.1 - - [03/Dec/2024:12:27:04 +0000] "GET / HTTP/1.1" 200 3014 "http://052024-jaune-4.wns.wilders.dev/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 172.18.0.1 - - [03/Dec/2024:12:27:05 +0000] "GET / HTTP/1.1" 200 3014 "http://052024-jaune-4.wns.wilders.dev/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+172.18.0.1 - - [03/Dec/2024:13:41:02 +0000] "GET / HTTP/1.1" 200 3014 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+172.18.0.1 - - [03/Dec/2024:13:41:02 +0000] "GET /favicon.ico HTTP/1.1" 200 3870 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
