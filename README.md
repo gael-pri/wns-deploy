@@ -2,4 +2,4 @@
 
 continuous deployment 104
 
- We are Good for logs step 1 !!
+ We are Good for logs step 2 !!
